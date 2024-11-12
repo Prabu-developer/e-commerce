@@ -1,0 +1,60 @@
+*
+{
+    margin: 0;
+    padding: 0; 
+}
+.bi{
+    background-color: azure;
+
+}
+
+.container-fluid{
+    font-size: 30px;
+    color: blue;
+    font-family: fantasy;
+    
+
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 30px;
+    margin-top: 30px;
+    
+}
+section{
+    margin-top: 50px;
+    width: 100%;
+    height: fit-content;
+
+    
+}
+.carousel-item{
+    height: 400px;
+    width: 100%;
+
+    
+}
+footer h2{
+    background-color:lightgreen;
+    color: blueviolet;
+    text-align: center;
+    margin-top: 30px;
+}
+.follow i{
+    margin-left:150px;
+    margin-top: 30px;
+}
+.follow h3{
+    color: chocolate;
+    text-align: center;
+    background-color: bisque;
+}
+.welcome{
+    color: rgb(58, 231, 23);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: grey;
+    ba
+}
+
